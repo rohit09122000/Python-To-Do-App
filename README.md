@@ -4,9 +4,13 @@ A simple, beginner-friendly command-line to-do list application built with Pytho
 ✨ Features
 
 ➕ Add Tasks - Easily add new tasks to your to-do list
+
 👀 View Tasks - Display all your tasks in a numbered list
+
 ❌ Delete Tasks - Remove completed tasks by their number
+
 🚪 Exit - Cleanly exit the application
+
 ✅ Input Validation - Prevents errors with proper input checking
 
 💻 Usage
